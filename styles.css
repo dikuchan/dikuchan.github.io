@@ -1,0 +1,31 @@
+* {
+    background-color: #eceff4;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.content {
+    right: 50%;
+    bottom: 65%;
+    transform: translate(50%, 50%);
+    position: absolute;
+    text-align: center;
+}
+
+.about img {
+    width: 96px;
+    height: 96px;
+}
+
+.links {
+    padding: 10px;
+}
+
+.links img {
+    width: 32px;
+    height: 32px;
+}
